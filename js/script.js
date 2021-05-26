@@ -21,5 +21,5 @@ console.log("colore preferito :", coloreUtente);
 
 // addizione risultati
 var psw = nomeUtente + cognomeUtente + coloreUtente + "21";
-console.log("password segretissima :", psw).toLowerCase();
+console.log("password segretissima :", psw);
 document.write(psw);
